@@ -31,7 +31,7 @@
 <!--Inner Heading start-->
 <div class="inner-heading">
   <div class="container">
-    <h3>Blog</h3>
+    <h3>Blog 1</h3>
   </div>
 </div>
 <!--Inner Heading end--> 
